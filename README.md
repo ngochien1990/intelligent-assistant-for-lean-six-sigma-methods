@@ -25,7 +25,9 @@ Let "our" work together on your problem-solving journey.
 
 ### How can I do that:
 1- "I" was built on Text Mining to understand any words you may give, even you speak or type a wrong word whose spelling is wrong
+
 2- "I" was equipped with Speech-2-Text feature to understand your voice
+
 3- "I" was embedded with a matching-and-prioritizing algorithm that suggests you the BEST LSS methods in accordance with your problem description 
 
 ### Ackowledgement:  
@@ -34,11 +36,12 @@ Your satisfaction is important to me and I encourage you to try this app out ris
 You can visit me at:  https://orcid.org/0000-0003-4618-9462
 
 REFERENCES:
-The app and its content are designed by Hien Nguyen, an experienced Operations Excellence manager who holds a certified Master Lean Six Sigma Black Belt (ISO13053) and works as Researcher in Mondragon Universitatea- Basque-Spain, and Cuong Nguyen, a Lean Six Sigma Black Belt Specialist.
+The app and its content are designed by Hien Nguyen, an experienced Operations Excellence manager who holds a certified Master Lean Six Sigma Black Belt (ISO13053) and works as Researcher in Mondragon Universitatea- Basque-Spain, and Cuong Nguyen, a Lean Six Sigma Black Belt Specialist. The content and questions are made by our knowledge and experiences that are influenced by literature, such as:
 
-The content and questions are made by our knowledge and experiences that are influenced by literature, such as:
 • Pyzdek, T., & Keller, P. (2010). The six sigma handbook: A complete guide for green belts, black belts, and managers at all levels (3rd ed.). New York, NY: McGraw-Hill Medical.
+
 • Kubiak, T. M. (2009). The certified six SIGMA black belt handbook (2nd ed.). ASQ Quality Press.
+
 • George, M. L., Maxey, J., Rowlands, D. T., & Upton, M. (2004). The lean six sigma pocket toolbook: A quick reference guide to nearly 100 tools for improving quality and speed. McGraw-Hill Professional.
 
 
