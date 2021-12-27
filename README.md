@@ -14,7 +14,9 @@ With this app on your Android smart phone,
 	• in your own way in both SPEAKING or TYPYING
 	• in your own LANGUAGE (e.g., Tiếng Việt, English, Español, Deutch,…)
  
-2- Moreover, "I" am also your Mobile Dictionary that offers you 117 LSS methods that are briefly explained: their purpose of use, when to use, and how to use them. 
+2- Moreover, "I" am also your Mobile Dictionary that offers you 117 LSS methods that are briefly explained: 
+ (1) their purpose of use, 
+ (2) when to use, and how to use them. 
 
 3- These methods are systematically classified in 5 phases of DMAIC*,  paving the way for your problem-solving journey in any context of use: 
 
@@ -24,6 +26,13 @@ With this app on your Android smart phone,
 
 Let "our" work together on your problem-solving journey.
 
+*There are total 117 LSS methods, for example, ranging from:
+ (1) Define: Baseline measurement,  Benefit & Effort matrix, Communication plan, …
+ (2) Measure: Boxplots, Checksheet, Confident intervals,…
+ (3) Analyze: Affinity diagram, Hypothesis tests, Regression,….
+ (4) Improve: Analytical hierarchy process, FMEA, Design of Experiments,…
+ (5) Control: Control charts, Design for  Six Sigma, Visual management,…
+ 
 ### How can I do that:
 1- "I" was built on Text Mining to understand any words you may give, even you speak or type a wrong word whose spelling is wrong
 
