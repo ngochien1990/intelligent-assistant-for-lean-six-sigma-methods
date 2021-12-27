@@ -8,7 +8,7 @@
 ### Why me:
 With this app on your Android smart phone, 
 	• you will not worry about WHAT LSS methods are suitable for your problems. 
-	• you dont need to be Black Belt or Master Black Belt to be competent in problem solving
+	• you dont need to be Master Black Belt to be competent in problem solving
 
 1- You can call this app as an "Intelligent Assistant" that recommends you the BEST LSS methods for your problem description. What you need is to describe your problem:
 	• in your own way in both SPEAKING or TYPYING
