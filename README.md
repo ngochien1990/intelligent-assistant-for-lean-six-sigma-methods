@@ -7,12 +7,12 @@
 
 ### Why me:
 With this app on your Android smart phone, 
-	• you will not worry about WHAT LSS methods are suitable for your problems. 
-	• you dont need to be Master Black Belt to be competent in problem solving
+ (1) you will not worry about WHAT LSS methods are suitable for your problems. 
+ (2) you dont need to be Master Black Belt to be competent in problem solving
 
 1- You can call this app as an "Intelligent Assistant" that recommends you the BEST LSS methods for your problem description. What you need is to describe your problem:
-	• in your own way in both SPEAKING or TYPYING
-	• in your own LANGUAGE (e.g., Tiếng Việt, English, Español, Deutch,…)
+ (1) in your own way in both SPEAKING or TYPYING
+ (2) in your own LANGUAGE (e.g., Tiếng Việt, English, Español, Deutch,…)
  
 2- Moreover, "I" am also your Mobile Dictionary that offers you 117 LSS methods that are briefly explained: 
  (1) their purpose of use, 
