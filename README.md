@@ -1,7 +1,8 @@
 # Intelligent Assistant for Lean Six Sigma (LSS) Methods
 #### Google Play Store: https://play.google.com/store/apps/details?id=lean.helper.lssmethodsassistant
-#### Introduction video: https://youtu.be/nlS8i78MmBA
-#### Introduction video (Vietnamese): https://youtu.be/FlZj2Gd0EDE
+#### Introduction: https://youtu.be/nlS8i78MmBA
+#### Introduction (Vietnamese): https://youtu.be/FlZj2Gd0EDE
+#### Introduction (English): https://youtu.be/-6F2yXCod0o
 
 ## Describe YOUR PROBLEM in your OWN way; I GIVE you the BEST Lean Six Sigma Method
 
