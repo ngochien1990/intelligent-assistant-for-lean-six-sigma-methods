@@ -63,4 +63,8 @@ The app and its content are designed by Hien Nguyen, an experienced Operations E
 
 • George, M. L., Maxey, J., Rowlands, D. T., & Upton, M. (2004). The lean six sigma pocket toolbook: A quick reference guide to nearly 100 tools for improving quality and speed. McGraw-Hill Professional.
 
+### Other publications:
 
+Master Lean Six Sigma - Quiz: https://play.google.com/store/apps/details?id=org.leanhelper.mastersixsigma
+
+Khai thác dữ liệu với R (Data Exploration with R): https://tiki.vn/khai-thac-du-lieu-voi-r-p121174018.html?spid=121174019
