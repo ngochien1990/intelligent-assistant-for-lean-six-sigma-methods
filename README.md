@@ -68,3 +68,5 @@ The app and its content are designed by Hien Nguyen, an experienced Operations E
 Master Lean Six Sigma - Quiz: https://play.google.com/store/apps/details?id=org.leanhelper.mastersixsigma
 
 Khai thác dữ liệu với R (Data Exploration with R): https://tiki.vn/khai-thac-du-lieu-voi-r-p121174018.html?spid=121174019
+
+Khóa học trực tuyến Lean Six Sigma Cấp độ Đai Trắng (White Belt): https://unica.vn/ung-dung-lean-six-sigma-trong-cai-tien-san-xuat-va-dich-vu-cap-do-dai-trang-white-belt?aff=651035
